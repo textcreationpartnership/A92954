@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory poem to the right honourable the Earl of Albemarle, captain of His Majesty's first troop of guards by E. Settle.</title>
+            <author>Settle, Elkanah, 1648-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92954</idno>
+            <idno type="STC">Wing S2674</idno>
+            <idno type="STC">ESTC R42476</idno>
+            <idno type="EEBO-CITATION">36282051</idno>
+            <idno type="OCLC">ocm 36282051</idno>
+            <idno type="VID">150279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150279)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2239:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory poem to the right honourable the Earl of Albemarle, captain of His Majesty's first troop of guards by E. Settle.</title>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, Arnold Joost van Keppel, --  Earl of, 1669-1718 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150279:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 132 -->
+            <p>A Congratulatory POEM To the Right Honourable the Earl of ALBEMARLE, <hi>Captain of His Majeſty's</hi> Firſt Troop of Guards.</p>
+            <p>By E. SETTLE.</p>
+            <q>Praemia Virtutis dat Gloria.</q>
+            <p>LONDON: Printed in the Year, 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:150279:2"/>
+            <!-- PDF PAGE 133 -->
+            <pb n="3" facs="tcp:150279:2"/>
+            <!-- PDF PAGE 133 -->
+            <head>A Congratulatory POEM.</head>
+            <lg>
+               <l>HAil <hi>CAESAR</hi>'s Dear <hi>Hepheſtion;</hi> Hail to all</l>
+               <l>Thoſe Golden Show'rs that on Crown'd VIRTUE fall.</l>
+               <l>Hail to thoſe <hi>HONO<g ref="char:V">Ʋ</g>RS,</hi> Fate does here diſpenſe;</l>
+               <l>The Grati'tude of Endebted Providence.</l>
+               <l>True MERIT to the Royal Smiles of Kings</l>
+               <l>No empty, no precarious Title brings.</l>
+               <l>HE holds by Claim and Right, His equal Due,</l>
+               <l>The Smiles of <hi>HEAV'N,</hi> and <hi>Heav'n's Vicegerent</hi> too.</l>
+            </lg>
+            <lg>
+               <l>What tho NASSAU (War's finiſht Circle run)</l>
+               <l>By that Great Arm the Work of Fate has done;</l>
+               <l>
+                  <pb n="4" facs="tcp:150279:3"/>
+                  <!-- PDF PAGE 134 -->
+Patron of EMPIRES, <hi>Europe's</hi> Guardian Lord,</l>
+               <l>To the tir'd <hi>
+                     <g ref="char:V">Ʋ</g>niverſe</hi> has Reſt reſtor'd;</l>
+               <l>Given the World <hi>Peace;</hi> whilſt now no longer ſpread</l>
+               <l>The Branching Laurels for the Conqu'rors Head?</l>
+               <lg>
+                  <l>Shall the Great <hi>ALBEMARLE</hi> leſs Glorious ſhine,</l>
+                  <l>Becauſe <hi>Bellona,</hi> with a Beam Divine,</l>
+                  <l>Does now no more His Radiant Temples twine?</l>
+               </lg>
+               <l>No, tho His Martial Eagles towr no more,</l>
+               <l>Such GLORY ſhall even teach his Doves to ſoar;</l>
+               <l>His <hi>Post of Honour</hi> with that Grandeur fill'd,</l>
+               <l>His very Olive-Wreaths His Brow ſhall gild.</l>
+               <l>Peace, and Inglorious Eaſe, perhaps may ſhade</l>
+               <l>Ignobler Worth; and poorer Brightneſs fade.</l>
+               <l>Your Luſtre a more Laſting Shine muſt hold:</l>
+               <l>'Tis Braſs that cankers; there's no Ruſt in Gold.</l>
+            </lg>
+            <lg>
+               <l>Hold then the <hi>Albion</hi> Thunder in that Hand:</l>
+               <l>Beneath the <hi>JOVE</hi> let the Young <hi>MARS</hi> command.</l>
+               <l>To peaceful Fields lead forth His glittering Arms,</l>
+               <l>With all that Port, and all thoſe Graceful Charms.</l>
+               <l>
+                  <pb n="5" facs="tcp:150279:3"/>
+                  <!-- PDF PAGE 134 -->
+And if again ſome Foreign Cloud once more</l>
+               <l>Shall ruffle to new Storms our Halcyon Shore:</l>
+               <l>When <hi>War,</hi> the Martial <hi>Britain's</hi> well-play'd Game,</l>
+               <l>Shall call her <hi>Heroes</hi> to new Fields of Fame;</l>
+               <lg>
+                  <l>Then <hi>ALBEMARLE,</hi> (an Arm ſo Early try'd)</l>
+                  <l>A Leading CHIEF, by the Great <hi>WILLIAM</hi>'s Side,</l>
+                  <l>Shall plume in Full-blown <hi>Glory's</hi> nobleſt Pride.</l>
+               </lg>
+               <l>With all His Native Heat, His Inborn Fire,</l>
+               <l>Warm'd in that Cauſe, ſhall t'all thoſe Heights aſpire,</l>
+               <l>That fix Great Names above the Pow'r to die.</l>
+               <l>The HERO founds His own proud Immortality.</l>
+               <l>But how can my poor Muſe attempt to ſing</l>
+               <l>The Glorious Harveſt ſuch <hi>Ripe Hopes</hi> ſhall bring?</l>
+               <l>It is enough, Great <hi>ALBEMARLE</hi> all o'er,</l>
+               <l>He'll be HIMSELF—The World can ask no more.</l>
+            </lg>
+            <lg>
+               <l>Let not miſtaken Vulgar Ignorance</l>
+               <l>(Blind-ſighted all) at <hi>ALBEMARLE</hi>'s Advance,</l>
+               <l>To ſee Exalted <hi>Worth</hi> thus nobly riſe,</l>
+               <l>Attend his Triumphs with Malignant Eyes;</l>
+               <l>
+                  <pb n="6" facs="tcp:150279:4"/>
+                  <!-- PDF PAGE 135 -->
+As if theſe Bleſſings his kind Stars ſhour'd down</l>
+               <l>From the too fond Profuſeneſs of a Crown.</l>
+               <lg>
+                  <l>No; the Great <hi>CAESAR,</hi> that deckt Brow to raiſe,</l>
+                  <l>Firſt pois'd the <hi>Scales,</hi> before he wove the <hi>Bays:</hi>
+                  </l>
+                  <l>His Smiles to <hi>ALBEMARLE</hi> not Gives, but Pays.</l>
+               </lg>
+               <l>For that Rewarded Head this <hi>Chaplet</hi> found,</l>
+               <l>
+                  <hi>Albion</hi>'s the Hand, but 'twas <hi>Aſtraea</hi> crownd.</l>
+            </lg>
+            <lg>
+               <l>Well he remembers that Rich <hi>WORTH</hi> he nurſt:</l>
+               <l>
+                  <hi>VALO<g ref="char:V">Ʋ</g>R</hi> he cheriſhes, but tried it firſt.</l>
+               <l>Early he led him forth to <hi>HONO<g ref="char:V">Ʋ</g>R</hi>'s Race,</l>
+               <l>Early he ſhew'd him <hi>Death's</hi> and <hi>Danger's</hi> Face:</l>
+               <l>All Fronted, like the Eaglet to the Sun,</l>
+               <l>When loos'd at Blood the glorious Hunter run.</l>
+               <lg>
+                  <l>Thus try'd he ſaw Him on the <hi>Belgick</hi> Plain:</l>
+                  <l>In all the Virtues, in His Boſom reign,</l>
+                  <l>Saw Godlike <hi>CO<g ref="char:V">Ʋ</g>RAGE</hi> lead th'Angelical Train.</l>
+               </lg>
+               <l>A Poſting <hi>Mercury</hi> more ſwift ne're rod</l>
+               <l>To bear the Mandates of an Angry God,</l>
+               <l>
+                  <pb n="7" facs="tcp:150279:4"/>
+                  <!-- PDF PAGE 135 -->
+Wings on his Feet, and Duty in his Eyes,</l>
+               <l>Then <hi>ALBEMARLE</hi> with <hi>WILLIAM</hi>'s Vengeance flies.</l>
+               <l>War was His firſt-lov'd Miſtreſs, His firſt Aim;</l>
+               <l>Eager He puſh'd, and Young to th'Liſts He came.</l>
+               <l>Through His fir'd Veins did the warm <hi>Hero</hi> riſe;</l>
+               <l>Glow'd in His Cheeks, and ſparkled in His Eyes.</l>
+               <l>Ev'n with a Strength unequal to His Will,</l>
+               <l>When wanting Years His Wiſhes to fulfil,</l>
+               <l>Oft would He murmur at the Lazy Sun,</l>
+               <l>And bid the tedious Charioteer drive on.</l>
+               <l>Tir'd with His Youth, in Nature's Face He flew:</l>
+               <l>Curſt her ſlow Architect; and envious grew,</l>
+               <l>At that quick Blood in our firſt Parent ran,</l>
+               <l>Who at a Word created, ſtept out, MAN.</l>
+               <l>Let fainter <hi>Virtue,</hi> from a Chiller Root,</l>
+               <l>Bear only a ſlow Later Autumn Fruit:</l>
+               <l>Such <hi>Riper Veins</hi> more forward Harveſts bring:</l>
+               <l>
+                  <hi>GLORY</hi> was here the <hi>First Fruits</hi> of His <hi>Spring.</hi>
+               </l>
+               <l>His <hi>Truth, Trust, Honour,</hi> all together try'd,</l>
+               <l>The very Inland of His Heart deſcry'd;</l>
+               <l>
+                  <pb n="8" facs="tcp:150279:5"/>
+                  <!-- PDF PAGE 136 -->
+He ſaw His <hi>Virtues</hi> whole Diſcover'd <hi>Mine,</hi>
+               </l>
+               <l>Such fair <hi>Deſerts,</hi> the vaſt Rich <hi>Treaſure</hi> ſhine.</l>
+               <lg>
+                  <l>And if the <hi>Grateful Crown,</hi> in a Return</l>
+                  <l>To ſuch known MERITS, does that <hi>Brow</hi> adorn,</l>
+                  <l>So near the <hi>Royal Heart</hi> the Darling <hi>Amu'let</hi> worn;</l>
+               </lg>
+               <l>His own the <hi>Jewel,</hi> all true ſparkling Mold,</l>
+               <l>Kind <hi>WILLIAM</hi> only ſets the JEM in <hi>Gold.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What, though, perhaps <hi>Court-ſpight</hi> (Pride's natural Defect of Reaſon, <hi>Engliſh Frailty</hi> all!)</l>
+               <l>To ſee, by the Indulgent Smiles of Pow'r,</l>
+               <l>From ſome Rich Foreign Bed, ſome Lovely <hi>Flow'r,</hi>
+               </l>
+               <l>Tranſlated to the <hi>Royal Garden,</hi> ſpread</l>
+               <l>Its fragrant Sweets, and raiſe its Beauteous Head;</l>
+               <l>Too oft with a cold Look, and murm'ring Thought,</l>
+               <l>Views the fair <hi>Plant</hi> with blooming Glories fraught—</l>
+               <l>The Mounting <hi>ALBEMARLE</hi> (His Riſe more kind,)</l>
+               <l>Sets forth, and Leaves the Rival Crowd behind:</l>
+               <l>Throws out the Lagging Racers of the Chace;</l>
+               <l>So plumes in <hi>Fame,</hi> out-ſtrips with ſuch a <hi>Grace;</hi>
+               </l>
+               <l>
+                  <pb n="9" facs="tcp:150279:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 136 -->
+That here ev'n Smiling <hi>Envy,</hi> to admire</l>
+               <l>Such Trophies, joins the Univerſal Choir:</l>
+               <l>Without one Hiſſing Snake, one ſingle Sting,</l>
+               <l>Does, pleas'd and charm'd, His <hi>Io Paeans</hi> ſing.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Nor does ſuch Radiant <hi>Greatneſs</hi> only bear</l>
+                  <l>So fair a Light, in His own Higher Sphere;</l>
+                  <l>In the Court-<hi>Galaxy</hi> that Leading Star.</l>
+               </lg>
+               <l>From that Rich Soil does all that <hi>Goodneſs</hi> flow;</l>
+               <l>That as He <hi>Shines</hi> Above, He <hi>Warms</hi> Below.</l>
+               <l>To His Command thus his Great Entry makes,</l>
+               <l>Whilſt not ſo much a Martial Charge He takes;</l>
+               <l>But ev'n a Nurſery of Arms: So dear</l>
+               <l>The cheriſht Sons of <hi>Mars,</hi> His Care ſo near;</l>
+               <l>Already has His kind Protecting Smile</l>
+               <l>Fatten'd their Glebe, and all enricht their Soil.</l>
+               <l>As if Reſolv'd, by ſuch Endearing Charms,</l>
+               <l>Not to <hi>Lead</hi> only, but <hi>Inſpire</hi> their Arms;</l>
+               <l>Not <hi>Hands</hi> but <hi>Hearts</hi> his own: So warm a Sway,</l>
+               <l>Like the <hi>Promethean Fire,</hi> would ev'n give <hi>Souls</hi> to Clay.</l>
+               <l>
+                  <pb n="10" facs="tcp:150279:6"/>
+                  <!-- PDF PAGE 137 -->
+That Animating Goodneſs in their Head,</l>
+               <l>Where ſhall not ſuch Commanding HONOUR Lead?</l>
+               <l>Whilſt this all pow'rful Influence ſits above,</l>
+               <l>Life of their Arms, ſhall His Great <hi>Genius</hi> move:</l>
+               <l>So the High Spheres their vaſt tuned Meaſures go,</l>
+               <l>Whilſt Seaſons, Days, and Years, Dance after 'em below.</l>
+            </lg>
+            <lg>
+               <l>The Helm of Glory in ſuch Steering Hands,</l>
+               <l>Tis thus the Truly-Noble <hi>Chief</hi> commands:</l>
+               <l>He Marches his <hi>Battalions</hi> to the Field,</l>
+               <l>In War their <hi>Leading Fire,</hi> in Peace their <hi>Shield.</hi>
+               </l>
+               <l>'Twas thus of Old, did the Celeſtial Hand,</l>
+               <l>Guide his Lov'd <hi>Iſrael</hi> to the Promis'd Land.</l>
+               <l>One while, in a kind <hi>Cloud's</hi> refreſhing Shade,</l>
+               <l>He Health and Shelter, ev'n in Deſarts, made.</l>
+               <l>Another, did his brighter Beams diſplay;</l>
+               <l>In his own Native, and more Heav'nly Ray,</l>
+               <l>Above 'em like a <hi>Fiery Pillar</hi> rod:</l>
+               <l>Their <hi>Light,</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>mbrage;</hi> and in both a GOD.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:150279:6"/>
+               <!-- PDF PAGE 137 -->
+               <l>But were His Shining Trophies infinite;</l>
+               <l>Not their whole Blaze one Spark of <hi>Pride</hi> can light.</l>
+               <lg>
+                  <l>His Wreaths not Noblier won, but worn as well:</l>
+                  <l>Never ſuch Height was ſo acceſſible.</l>
+                  <l>
+                     <hi>Glory</hi> His Breaſt can Fill, but never Swell.</l>
+               </lg>
+               <l>No Greatneſs ſo familiar; and ſo free</l>
+               <l>No Temple to the Humbleſt Votary.</l>
+               <l>Here the Bent Knees that open Ear obtain;</l>
+               <l>Deſert ne're Pleads, nor Juſtice Sues in vain.</l>
+               <l>That Genuine Sweetneſs, all that Smiling Air—</l>
+               <l>Sure, the whole <hi>Graces</hi> Throne is founded There.</l>
+            </lg>
+            <lg>
+               <l>Here, Muſe, His Praiſe like thy <hi>Pernaſſus</hi> frame:</l>
+               <l>On two Twin Mounts of Greatneſs build His Fame:</l>
+               <l>VIRTUES to lead a <hi>Court,</hi> as well as <hi>Camp;</hi>
+               </l>
+               <l>And teach 'em HONOUR of the Nobleſt Stamp.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150279:7"/>
+            <!-- PDF PAGE 138 -->
+            <pb facs="tcp:150279:7"/>
+            <!-- PDF PAGE 138 -->
+         </div>
+      </body>
+   </text>
+</TEI>
